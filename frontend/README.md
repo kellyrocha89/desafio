@@ -23,4 +23,8 @@ Para o funcionamento em localhost talvez seja preciso instalar:
 * `npm install moment`
 * `npm install react-router-dom`
 
+<<<<<<< HEAD
 *Desenvolvido por: Kelly R A. Martins (kell.rocha.martins@accenture.com)*
+=======
+*Desenvolvido por: Kelly R A. Martins (kell.rocha.martins@accenture.com)*
+>>>>>>> f2758ad1e1d8bbd3d73d383299a4ea0458b8d475
