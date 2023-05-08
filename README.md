@@ -10,7 +10,13 @@ O backend do projeto foi desenvolvivo em **Java** com Springboot utilizando Spri
 
 O frontend foi desenvolvido em **React** com primereact e Axios.
 
+### Base de dados
 
+A base de dados foi desenvolvida em **MySQL**.
+
+Para acessar a base de dados localmente (`localhost`) talvez seja seja preciso instalar:
+
+* `wampserver`
 
 Para iniciar localmente (`localhost:3000`) o projeto:
 `npm start`
